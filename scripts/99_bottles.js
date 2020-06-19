@@ -6,5 +6,5 @@ for(var i = 99; i > 2; i--){
 /*Acabado o loop principal, temos duas excessões no final, dado que não podemos dizer "1 bottles" que estaria gramaticalmente incorreto.
 Assim, temos dois outputs finais que corrigem para "1 bottle", além de um "no more bottles of beer on the wall".
 */
-console.log(" 2 bottles of beer on the wall, 2 bottles of beer. Take one down, pass it around, 1 bottle of beer on the wall...");
-console.log(" 1 bottle of beer on the wall, 1 bottle of beer. Take the last down, pass it around, no more bottles of beer on the wall...");
+console.log("2 bottles of beer on the wall, 2 bottles of beer. Take one down, pass it around, 1 bottle of beer on the wall...");
+console.log("1 bottle of beer on the wall, 1 bottle of beer. Take the last down, pass it around, no more bottles of beer on the wall...");
